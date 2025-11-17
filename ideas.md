@@ -40,3 +40,5 @@ Sarasota Calendar Integration: Create an "Events" section that pulls in dates fo
 Local Government Links: A dedicated section linking to essential County and City government services (e.g., Clerk of the Circuit Court, Sarasota County Health Department).
 
 # NEED A GOOD LOOKING HOMPAGE!!!!
+
+# Lots of interactivity for sure and just needs to be smooth af
